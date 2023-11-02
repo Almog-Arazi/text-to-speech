@@ -9,7 +9,7 @@
     <img src="https://i.ibb.co/xjSXGFx/laptop.png" alt="Laptop" border="0" width="400">
   </a>
   <a href="https://ibb.co/GJHr2Zj">
-    <img src="https://i.ibb.co/9vZdTxj/mobile-3.png" alt="Mobile" border="0" width="200">
+    <img src="https://i.ibb.co/9vZdTxj/mobile-3.png" alt="Mobile" border="0" width="100">
   </a>
 </p>
 
