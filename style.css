@@ -1,0 +1,114 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'League Spartan', sans-serif;
+  box-sizing: border-box;
+}
+
+:root {
+  --text: #413d844f;
+  --button: #ff2363;
+  --background: linear-gradient(45deg, #090e5d, #830a24);
+}
+
+.main {
+  width: 100%;
+  min-height: 100vh;
+  background: var(--background);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: azure;
+  padding: 20px;
+}
+
+.main h1 {
+  font-size: 32px;
+  font-weight: 500;
+  margin-top: -30px;
+  margin-bottom: 10px;
+}
+
+.main p {
+  font-size: 16px;
+  font-weight: 100;
+  margin-bottom: 20px;
+  font-style: normal;
+}
+
+.main h1 span {
+  color: var(--button);
+}
+
+textarea {
+  width: 60%; /* Default width for larger screens */
+  height: 200px;
+  color: rgb(247, 247, 247);
+  font-size: 14px;
+  outline: 0;
+  padding: 10px;
+  border-radius: 10px;
+  resize: none;
+  margin-bottom: 20px;
+  background: var(--text);
+}
+
+textarea::placeholder {
+  font-size: 14px;
+  color: azure;
+  font-style: normal;
+  font-weight: lighter;
+}
+
+.line {
+  width: 60%; /* Default width for larger screens */
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: wrap; /* Allow items to wrap to the next line on smaller screens */
+}
+
+select {
+  flex: 1;
+  color: azure;
+  background: var(--text);
+  height: 40px;
+  padding: 0 20px;
+  outline: 0;
+  border: 0;
+  cursor: pointer;
+  border-radius: 35px;
+  appearance: none;
+  background-image: url(./images/dropdown.png);
+  background-size: 15px;
+  background-repeat: no-repeat;
+  background-position-y: 50%;
+  background-position-x: calc(100% - 20px);
+}
+
+button {
+  background: var(--button);
+  font-size: 12px;
+  padding: 10px 20px;
+  border-radius: 35px;
+  cursor: pointer;
+  color: azure;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  outline: 0;
+  border: 0;
+}
+
+button img {
+  width: 12px;
+}
+
+/* Media query for mobile screens */
+@media screen and (max-width: 768px) {
+  .line,
+  textarea {
+    width: 100%; /* Adjust width for mobile screens */
+  }
+}
