@@ -1,8 +1,10 @@
 <h1 align="center">Text to Speech Converter</h1>
+<a href="https://almog-arazi.github.io/text-to-speech/">Visit the Text to Speech Converter</a>
 
 <div align="center">
   <strong>A simple web-based text to speech converter using JavaScript, CSS, and HTML.</strong>
 </div>
+
 
 <p align="center">
   <a href="https://ibb.co/gTMmw4k">
