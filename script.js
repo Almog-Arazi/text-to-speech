@@ -34,3 +34,7 @@ document.querySelector("button").addEventListener("click", () => {
   // Use the Web Speech API to speak the text
   window.speechSynthesis.speak(speech);
 });
+
+document.getElementById('stopButton').addEventListener('click', function() {
+  // This will cancel the speech synthesis
+  window.speechSynthesis.cancel();
