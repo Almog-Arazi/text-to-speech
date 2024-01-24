@@ -36,5 +36,14 @@ document.querySelector("button").addEventListener("click", () => {
 });
 
 document.getElementById('stopButton').addEventListener('click', function() {
-  // This will cancel the speech synthesis
+  // Cancel the speech synthesis
   window.speechSynthesis.cancel();
+  
+  // Provide feedback to the user
+  this.innerText = 'Stopped'; // Change the button text to 'Stopped'
+  
+  // Optionally, reset the button text after a few seconds
+  setTimeout(() => {
+      this.innerText = 'Stop';
+  }, 2000);
+});
