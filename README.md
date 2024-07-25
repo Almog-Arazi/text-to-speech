@@ -8,11 +8,9 @@
 </div>
 
 
-<p align="center">
 ![mobile-3](https://github.com/user-attachments/assets/1bed6c4a-f7eb-4e8d-97ce-07a51d1d5a36)
 ![laptop](https://github.com/user-attachments/assets/fa9c1a3c-a5c9-451b-b656-cd5eb2f51b5c)
 
-</p>
 
 ## Table of Contents
 - [About](#about)
