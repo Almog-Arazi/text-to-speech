@@ -7,30 +7,14 @@
   <strong>A simple web-based text to speech converter using JavaScript, CSS, and HTML.</strong>
 </div>
 
-<style>
-  .clear {
-    clear: both; /* Ensures it clears floated elements */
-    height: clamp(2em, 5vmax, 3em); /* Sets the height for spacing */
-  }
-</style>
 
-<!-- Usage in HTML -->
-<div class="clear"></div>
+
 
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github.com/user-attachments/assets/1bed6c4a-f7eb-4e8d-97ce-07a51d1d5a36" alt="Mobile View" width="200">
   <img src="https://github.com/user-attachments/assets/fa9c1a3c-a5c9-451b-b656-cd5eb2f51b5c" alt="Laptop View" width="600">
 </div>
 
-<style>
-  .clear {
-    clear: both; /* Ensures it clears floated elements */
-    height: clamp(2em, 5vmax, 3em); /* Sets the height for spacing */
-  }
-</style>
-
-<!-- Usage in HTML -->
-<div class="clear"></div>
 
 ## Table of Contents
 - [About](#about)
