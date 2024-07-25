@@ -1,4 +1,6 @@
 <h1 align="center">Text to Speech Converter</h1>
+
+## Visit the Text to Speech Converter
 <a href="https://almog-arazi.github.io/text-to-speech/">Visit the Text to Speech Converter</a>
 
 <div align="center">
@@ -7,12 +9,9 @@
 
 
 <p align="center">
-  <a href="https://ibb.co/gTMmw4k">
-    <img src="https://i.ibb.co/xjSXGFx/laptop.png" alt="Laptop" border="0" width="400">
-  </a>
-  <a href="https://ibb.co/GJHr2Zj">
-    <img src="https://i.ibb.co/9vZdTxj/mobile-3.png" alt="Mobile" border="0" width="100">
-  </a>
+![mobile-3](https://github.com/user-attachments/assets/1bed6c4a-f7eb-4e8d-97ce-07a51d1d5a36)
+![laptop](https://github.com/user-attachments/assets/fa9c1a3c-a5c9-451b-b656-cd5eb2f51b5c)
+
 </p>
 
 ## Table of Contents
